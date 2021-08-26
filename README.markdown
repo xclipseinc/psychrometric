@@ -25,3 +25,5 @@ Goals of this psychrometric chart:
 - [ ] Use other properties besides humidity ratio for fixing states.
 - [ ] User-defined color schemes.
 
+## Acknowledgement:
+Special thanks to Michael Paulus from Energy Systems Laboratory (Texas A&M)
