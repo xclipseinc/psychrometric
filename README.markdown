@@ -1,6 +1,6 @@
 # Psychrometric Chart
 
-View the live chart at: [psychrochart.com](https://psychrochart.com)!
+View the live chart at: https://xclipseinc.github.io/psychrometric/index.html
 
 Goals of this psychrometric chart:
 
@@ -20,6 +20,7 @@ Goals of this psychrometric chart:
 
 ## Still to do:
 
+- [ ] Tableau Extension Connector.
 - [ ] Show other calculated psychrometric properties for states.
 - [ ] Use other properties besides humidity ratio for fixing states.
 - [ ] User-defined color schemes.
